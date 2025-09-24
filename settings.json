@@ -1,0 +1,15 @@
+{
+  "Bitrate": 8000000,
+  "Framerate": 60,
+  "FixedFramerate": true,
+  "BitrateMode": 0,
+  "Profile": 77,
+  "FragmentedMp4": true,
+  "DisableThrottling": false,
+  "HardwareEncoding": true,
+  "LowLatency": false,
+  "Mp4FastStart": false,
+  "SystemAudio": true,
+  "Microphone": false,
+  "SelectedDisplays": []
+}
